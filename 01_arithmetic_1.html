@@ -1,6 +1,7 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
+<meta charset="utf-8"/>
 <title>Arithmetic 1</title>
 
 <script type="text/javascript">
@@ -9,8 +10,10 @@ function on_click()
   var FirstNumber, SecondNumber, TheAnswer;
 
   FirstNumber = prompt("Enter first number");
+  console.log("FirstNumber =",FirstNumber)
 
   SecondNumber = prompt("Enter second number");
+  console.log("SecondNumber =",SecondNumber)
 
   TheAnswer = Number(FirstNumber) + Number(SecondNumber);
 
@@ -44,6 +47,7 @@ function on_click()
 </head>
 
 <body>
+<p>Shift+Ctrl+K to open JavaScript console</p>
 
 <div style="text-align: center;">
   <p class="button left right" onclick="on_click()">Run</p>
