@@ -6,7 +6,7 @@
 
 4. CLICK **01_add.html**
  
-5. CLICK <img src="/download-raw-file.png" alt= “” width="30"> (download raw file)
+5. CLICK <img src="/download-raw-file.png" alt= “” width="35"> (download raw file)
  
 6. SAVE on desktop
 
