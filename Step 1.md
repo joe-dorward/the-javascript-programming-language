@@ -1,17 +1,17 @@
-OPEN (in web browser) **github.com/joe-dorward**
+1. OPEN (in web browser) **github.com/joe-dorward**
 
-CLICK **Repositories**
+2. CLICK **Repositories**
 
-CLICK **the-javascript-programming-language**
+3. CLICK **the-javascript-programming-language**
 
-CLICK **01_add.html**
+4. CLICK **01_add.html**
  
-CLICK <img src="/download-raw-file.png" alt= “” width="30"> (download raw file)
+5. CLICK <img src="/download-raw-file.png" alt= “” width="30"> (download raw file)
  
-SAVE on desktop
+6. SAVE on desktop
 
-RIGHT-CLICK **01_add.html**
+7. RIGHT-CLICK **01_add.html**
 
-SELECT **Open with ...** (web browser)
+8. SELECT **Open with ...** (web browser)
 
-CLICK **Run**
+9. CLICK **Run**
