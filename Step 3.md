@@ -13,3 +13,7 @@
 6. SELECT **Open with ...** (web browser)
 
 7. CLICK **Run**
+
+Does it work the way you expected? 
+
+If not - repeat EDIT, SAVE, RUN steps
