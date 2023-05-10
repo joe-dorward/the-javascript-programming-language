@@ -1,4 +1,4 @@
-OPEN **github.com/joe-dorward**
+OPEN (in web browser) **github.com/joe-dorward**
 
 CLICK **Repositories**
 
@@ -12,6 +12,6 @@ SAVE on desktop
 
 RIGHT-CLICK **01_add.html**
 
-SELECT **Open with ...** (internet browser)
+SELECT **Open with ...** (web browser)
 
 CLICK **Run**
