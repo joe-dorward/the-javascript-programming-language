@@ -1,4 +1,4 @@
-1. OPEN (in web browser) **github.com/joe-dorward**
+1. OPEN (in a web browser) **github.com/joe-dorward**
 
 2. CLICK **Repositories**
 
